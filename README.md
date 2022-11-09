@@ -11,7 +11,7 @@ $$  $$
 
 $$ E=\frac{mV^{2}}{2} $$
 
-![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114554722/200734750-62a21eb6-df08-42ce-a04f-185188d0f008
+![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/114554722/200735380-8bd7bc96-5c68-47cf-9a35-67725924aea0.png)
 
 $$ A=UIt+I^{2}Rt=\frac{U^{2}}{R}t $$
 
