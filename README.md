@@ -5,7 +5,7 @@
 
 ![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114554722/200734601-b3858c5e-0468-4386-96d7-fa03e5fa6c7e.png)
 
-$$  $$
+$$ \bar{E}^{2}_{1}=\sqrt{\frac{F\alpha^{x-1}}{(x-1)\cdot x }}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2} $$
 
 ![lagrida_latex_editor (13)](https://user-images.githubusercontent.com/114554722/200734674-3142530f-a02e-45e4-aee0-0492c5166c65.png)
 
