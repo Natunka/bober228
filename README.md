@@ -1,6 +1,11 @@
 # bober228
 #Барабанова Наталия Дмитриевна 142
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/114554722/192688625-ff906c0b-502c-415e-9252-862b12b061fb.png)
 
 ![lagrida_latex_editor (12)](https://user-images.githubusercontent.com/114554722/200734601-b3858c5e-0468-4386-96d7-fa03e5fa6c7e.png)
