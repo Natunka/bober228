@@ -30,8 +30,6 @@ $$ E=\frac{mV^{2}}{2} $$
 
 $$ A=UIt+I^{2}Rt=\frac{U^{2}}{R}t $$
 
-![lagrida_latex_editor (16)](https://user-images.githubusercontent.com/114554722/200742099-50857763-91b9-476c-b606-6ecf46a50411.png)
-
-$$(A\&B)\&C=A\&(B\&C)$$
+$$(A\wedge B)\wedge C = A \wedge ( B \wedge C)$$
 
 
